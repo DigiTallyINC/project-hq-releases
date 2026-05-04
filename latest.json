@@ -1,11 +1,11 @@
 {
-  "version": "1.2.1",
-  "notes": "Project HQ v1.2.1",
-  "pub_date": "2026-05-04T16:05:31Z",
+  "version": "1.2.2",
+  "notes": "Project HQ v1.2.2",
+  "pub_date": "2026-05-04T16:17:20Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcnJjWk9hK3c0MUYyN0FBTXJwRUNCMHJnMVdpYXJGeWw3eUk1ME9WQTl5OFpBUEZVbU1mMkU0QVFCcjEwcEprQ1NnclhSOUUyZHpGQlJCYU1wQlI0NGR5RXUyb2IrYUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3OTEwNjY3CWZpbGU6UHJvamVjdCBIUV8xLjIuMV94NjRfZW4tVVMubXNpClpwMzRDL0d5VFc0U21NMzgzTWpmVU1OdXVQenRDMGxZS0g1dnhaUnBmcGpzOVpITUhiUnJRR1lheE83WERLOE5yKzBHbVNOSnpqTHRMMmJ4VUtzSkFBPT0K",
-      "url": "https://github.com/DigiTallyINC/project-hq-releases/releases/download/v1.2.1/Project-HQ_1.2.1_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcnJjWk9hK3c0MU1OUlY0RTg4MnJ3RnloUjV3TTdXNERhNXBOMzRXKy9Md1JpT0ducC8yNFlIMXFBdUgvaExiVW9yMS9JdEtsQXlqdlh0b3dHaXJjVjFZRDZnaWNKWEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3OTExNDA2CWZpbGU6UHJvamVjdCBIUV8xLjIuMl94NjRfZW4tVVMubXNpCnNDYWtGeDNKdnlMcUFpS0NVVldaZ0M3aTl1TlpRdmVLeGxuY3l6bHpnTWo3V21EZlEwWTFNcXhERzRMVnh2ODRFeWJiNU1qa1FWdG55R0hvZGFHYUFnPT0K",
+      "url": "https://github.com/DigiTallyINC/project-hq-releases/releases/download/v1.2.2/Project-HQ_1.2.2_x64_en-US.msi"
     }
   }
 }
